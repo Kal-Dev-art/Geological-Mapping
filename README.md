@@ -1,1 +1,5 @@
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. In this project, I have developed a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
+
+My TileLayer loads correctly, and my connection to the GeoJSON API using D3 is well-executed. The markers scale appropriately with earthquake magnitude, and my legend accurately represents depth levels with corresponding colors.
+
+Additionally, my data points are well-handled—scaling with magnitude, changing colors based on depth, and displaying clear tooltips with magnitude, location, and depth information. All data points are correctly placed, ensuring an accurate and informative visualization.
